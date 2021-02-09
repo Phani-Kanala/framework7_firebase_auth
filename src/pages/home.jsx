@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react';
 // import name from '../config/firebase'
 // console.log(name);
-console.log('Hellow world nnnnnn');
+//comment
+//console.log('Hellow world nnnnnn');
+console.log("Hello")
 
 import firebase from 'firebase';
 require('firebase/auth');
